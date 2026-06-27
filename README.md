@@ -198,7 +198,7 @@ The Power BI solution consists of three interactive dashboard pages that provide
 
 ## 1️⃣ Loan Default & Overview
 
-![Loan Default Overview](Assets/Loan_Default_Overview.png)
+![Loan Default Overview](Assets/Loan Default & Overview.png)
 
 This dashboard provides a high-level overview of loan performance, default trends, loan distribution across different purposes, employment categories, and yearly lending performance.
 
@@ -206,7 +206,7 @@ This dashboard provides a high-level overview of loan performance, default trend
 
 ## 2️⃣ Applicant Demographics & Financial Profile
 
-![Applicant Demographics](Assets/Applicant_Demographics.png)
+![Applicant Demographics](Assets/Applicant Demographics & Financial Profile.png)
 
 This dashboard analyzes borrower demographics, education, marital status, age groups, income levels, and credit score distribution to better understand applicant characteristics.
 
@@ -214,7 +214,7 @@ This dashboard analyzes borrower demographics, education, marital status, age gr
 
 ## 3️⃣ Financial Risk Metrics
 
-![Financial Risk Metrics](Assets/Financial_Risk_Metrics.png)
+![Financial Risk Metrics](Assets/Financial Risk Metircs.png)
 
 This dashboard focuses on financial risk indicators including year-over-year loan growth, default loan trends, credit score distribution, income segmentation, and loan amount decomposition.
 
@@ -468,11 +468,6 @@ If you would like to improve this project:
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 # 👩‍💻 Author
 
@@ -483,7 +478,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 ### Connect with Me
 
 - 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-- 💻 GitHub: *(Add your GitHub profile link here)*
+- 💻 GitHub: 
 
 ---
 
