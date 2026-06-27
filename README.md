@@ -478,7 +478,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 ### Connect with Me
 
 - 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-- 💻 GitHub: 
+- 💻 GitHub: *https://github.com/Sonali-Appaso-Mali*
 
 ---
 
